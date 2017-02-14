@@ -30,4 +30,3 @@ README.txt
 upload.php
 output.php
 and a 'files' folder in the same directory 
-# CIS2750
