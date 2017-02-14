@@ -1,8 +1,4 @@
-README CIS2750 Assignment 4
-
-Name: Apurv Agarwal
-Student Number: 0832983
-email: aagarwal@mail.uoguelph.ca
+﻿README 
 
 
 
